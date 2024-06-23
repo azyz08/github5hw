@@ -46,7 +46,10 @@ export default function Abduxabir() {
                     <p>We Make It Easy To Find The Great Design Talent, Easier...</p>
                 </div>
             </div>
-            <Btn>text</Btn>
+            <div className="card">
+                <h1>Looking for anything else?</h1>
+            </div>
+            .
         </>
     )
 }

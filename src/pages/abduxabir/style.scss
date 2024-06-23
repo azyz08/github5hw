@@ -29,7 +29,20 @@
         }
     }
 }
-@media (max-width:800px){
+.card3{
+    display: grid;grid-template-columns: 1fr 1fr;align-items: center;
+    font-size: 25px;line-height: 50px;
+    padding: 100px;
+}
+@media (max-width:700px){
+    .card3{
+        display: grid;grid-template-columns: 1fr;
+        padding: 35px;
+        font-size: 22px;
+        img{
+            width: 600px;
+        }
+    }
     .card1{
         display: grid;
         grid-template-columns: 1fr;

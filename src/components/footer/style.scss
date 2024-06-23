@@ -1,0 +1,45 @@
+.end{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 50px;
+    margin: 30px 60px ;
+    margin-left: 40px;
+    margin-top: 50px;
+    border-bottom: 1px solid black;
+    .end1{
+        p{
+            margin-top: 20px;
+            line-height: 25px;
+        }
+    }
+    ul{
+        margin-left: 50px;
+        line-height: 40px;
+        h1{
+            font-size: 25px;
+            margin-bottom: 20px;
+        }
+        a{
+            font-size: 20px;
+            &:hover {
+                color: blue;
+                transform: scale(1.1);
+            }
+        }
+    }
+}
+.end2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 50px;
+    .fr{
+        margin-left: 500px;
+    }
+    h1{
+        font-size: 25px;
+        display: inline-block;
+    }
+    p{
+        display: inline-block;
+    }
+}
