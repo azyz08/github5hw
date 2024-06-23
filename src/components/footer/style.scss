@@ -43,3 +43,14 @@
         display: inline-block;
     }
 }
+@media (max-width:800px){
+    .end{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    .end2{
+        .fr{
+            margin: 0px;
+        }
+    }
+}

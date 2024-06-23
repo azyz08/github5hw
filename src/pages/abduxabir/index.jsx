@@ -49,7 +49,31 @@ export default function Abduxabir() {
             <div className="card">
                 <h1>Looking for anything else?</h1>
             </div>
-            .
+            <div className="bor">
+            <i class="fa-solid fa-magnifying-glass"></i><input type="text" placeholder="Search keyword"/>
+            </div>
+            <div className="bor1">
+                <button>iPhone</button>
+                <button>Charger</button>
+                <button>Gift</button>
+                <button>Google Pixel 3</button>
+                <button>Keyboard</button>
+            </div>
+            <div className="bor2">
+                <button>13 Pro Max</button>
+                <button>iPhone 12</button>
+                <button>Laptop</button>
+                <button>Mobile</button>
+            </div>
+            <div className="in">
+                <h1>Never miss a thing</h1>
+                <p>Sign up for texts to be notified about our best offers on the perfect gifts.</p>
+                <img src="./tn.png" alt="" />
+                <div className="bot">
+                 <p>Your email</p>
+                 <button>Sign up</button>
+            </div>
+            </div>
         </>
     )
 }
