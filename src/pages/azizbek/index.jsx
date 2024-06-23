@@ -90,6 +90,46 @@ export default function Azizbek() {
                     </div>
                 </div>
             </div>
+
+            <div className="tex">
+                <h1>Save on our most selled items.</h1>
+                <p>Our new Limited Edition Winter Design BESPOKE 4-Door Flex™</p>
+            </div>
+
+            <div className="items">
+                <div className="item">
+                    <img src="https://s3-alpha-sig.figma.com/img/84b3/b83a/e77b25bbc02aba9af3cbc4ead872c81a?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=em1BPfCbmfeWKLY-Znp7LxIoH15h6gLuwcKN63znUg9flhFIQmkXF8D8nurPgDn0V7-PHCNDoq8ZiyeQCWumlhs~AarOeTdVkrdxcbsZI5-b8heBF8LWTo5T5OPE2nY33JpbyyI6f~Jg1AAp9MalZ8KVaOjjCh~QWgLyTfQveGE2LLmsmA1PMl-oacgAMJEkcbc8BZTPPCrTlxEg2KkCEFGyainUX3DsCzTFK-xlWLupg3yyi~lOWAmw8R7aI-KHg5IyxHtCmz817rCyWixSGE0isbOh6MmKwBHjjpSqrQtvqwGvI7KCAX1Fuv~zP8kN7te-XWBwvrvQzPwGU5Eacw__" alt="" />
+                    <div className="text">
+                        <h2>MacBook Pro 13</h2>
+                        <p>Neque porro quisquam est qui dolorem <br /> ipsum quia dolor sit amet</p>
+                        <h3>$ 1,200.00 USD</h3>
+                    </div>
+                </div>
+                <div className="item">
+                    <img src="https://s3-alpha-sig.figma.com/img/84b3/b83a/e77b25bbc02aba9af3cbc4ead872c81a?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=em1BPfCbmfeWKLY-Znp7LxIoH15h6gLuwcKN63znUg9flhFIQmkXF8D8nurPgDn0V7-PHCNDoq8ZiyeQCWumlhs~AarOeTdVkrdxcbsZI5-b8heBF8LWTo5T5OPE2nY33JpbyyI6f~Jg1AAp9MalZ8KVaOjjCh~QWgLyTfQveGE2LLmsmA1PMl-oacgAMJEkcbc8BZTPPCrTlxEg2KkCEFGyainUX3DsCzTFK-xlWLupg3yyi~lOWAmw8R7aI-KHg5IyxHtCmz817rCyWixSGE0isbOh6MmKwBHjjpSqrQtvqwGvI7KCAX1Fuv~zP8kN7te-XWBwvrvQzPwGU5Eacw__" alt="" />
+                    <div className="text">
+                        <h2>MacBook Pro 13</h2>
+                        <p>Neque porro quisquam est qui dolorem <br /> ipsum quia dolor sit amet</p>
+                        <h3>$ 1,200.00 USD</h3>
+                    </div>
+                </div>
+                <div className="item">
+                    <img src="https://s3-alpha-sig.figma.com/img/84b3/b83a/e77b25bbc02aba9af3cbc4ead872c81a?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=em1BPfCbmfeWKLY-Znp7LxIoH15h6gLuwcKN63znUg9flhFIQmkXF8D8nurPgDn0V7-PHCNDoq8ZiyeQCWumlhs~AarOeTdVkrdxcbsZI5-b8heBF8LWTo5T5OPE2nY33JpbyyI6f~Jg1AAp9MalZ8KVaOjjCh~QWgLyTfQveGE2LLmsmA1PMl-oacgAMJEkcbc8BZTPPCrTlxEg2KkCEFGyainUX3DsCzTFK-xlWLupg3yyi~lOWAmw8R7aI-KHg5IyxHtCmz817rCyWixSGE0isbOh6MmKwBHjjpSqrQtvqwGvI7KCAX1Fuv~zP8kN7te-XWBwvrvQzPwGU5Eacw__" alt="" />
+                    <div className="text">
+                        <h2>MacBook Pro 13</h2>
+                        <p>Neque porro quisquam est qui dolorem <br /> ipsum quia dolor sit amet</p>
+                        <h3>$ 1,200.00 USD</h3>
+                    </div>
+                </div>
+                <div className="item">
+                    <img src="https://s3-alpha-sig.figma.com/img/84b3/b83a/e77b25bbc02aba9af3cbc4ead872c81a?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=em1BPfCbmfeWKLY-Znp7LxIoH15h6gLuwcKN63znUg9flhFIQmkXF8D8nurPgDn0V7-PHCNDoq8ZiyeQCWumlhs~AarOeTdVkrdxcbsZI5-b8heBF8LWTo5T5OPE2nY33JpbyyI6f~Jg1AAp9MalZ8KVaOjjCh~QWgLyTfQveGE2LLmsmA1PMl-oacgAMJEkcbc8BZTPPCrTlxEg2KkCEFGyainUX3DsCzTFK-xlWLupg3yyi~lOWAmw8R7aI-KHg5IyxHtCmz817rCyWixSGE0isbOh6MmKwBHjjpSqrQtvqwGvI7KCAX1Fuv~zP8kN7te-XWBwvrvQzPwGU5Eacw__" alt="" />
+                    <div className="text">
+                        <h2>MacBook Pro 13</h2>
+                        <p>Neque porro quisquam est qui dolorem <br /> ipsum quia dolor sit amet</p>
+                        <h3>$ 1,200.00 USD</h3>
+                    </div>
+                </div>
+            </div>
         </>
     )
 }
